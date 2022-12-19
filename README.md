@@ -12,5 +12,7 @@ You work for an airline on the data science team as a data analyst and are a res
 4. Infographic for the public
 5. Video Presentation (3 minute Story)
 
+![Data Visualization](./data/readme/data_visualization.png)
+
 ## Built With
 Python, Tableau, Powerpoint
